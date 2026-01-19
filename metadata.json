@@ -1,0 +1,5 @@
+{
+  "name": "Second Brain Investigator",
+  "description": "A semantic search agent for Notion that acts as a creative partner, retrieving deep memories and connections.",
+  "requestFramePermissions": []
+}
